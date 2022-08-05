@@ -51,7 +51,7 @@ dependencies {
 
     implementation("io.coil-kt:coil:2.1.0")
 
-    implementation "com.google.dagger:dagger:2.43.1"
+    implementation "com.google.dagger:dagger:2.43.2"
     kapt "com.google.dagger:dagger-compiler:2.43.2"
 
     testImplementation 'junit:junit:4.13.2'
